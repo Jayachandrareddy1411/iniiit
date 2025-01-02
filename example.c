@@ -4,7 +4,7 @@
 
 
 int main() {
-	
+	printf("hi");
 	int fd;
 	char buffer[50];
 	char msg[50] = "Hello this is jayachandra";
